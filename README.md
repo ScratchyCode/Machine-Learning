@@ -9,6 +9,7 @@ Sono presenti codici che implementano l'addestramento di reti neurali con metodi
 3) randomico
 
 Implementare uno di questi dipende dallo spazio dei dati e dalle risorse computazionali.
+
 La rete neurale per le previsioni meteorologiche è addestrata invece con la backpropagation.
 
 # Python
